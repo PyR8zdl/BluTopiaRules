@@ -61,13 +61,13 @@
         * **1.5.2.5** Suitable containers: ISO, BDMV or VIDEO_TS folders.
 
     * **1.5.3 Remuxes:**
-        * 1.5.3.1 Source must be an untouched disc (BD50/BD25/DVD9/DVD5).
-        * 1.5.3.2 Must contain original, untouched audio and video track(s).
-        * 1.5.3.3 Any subtitle tracks must be embedded within the .mkv.
-        * 1.5.3.4 Must ONLY contain the original language track (excluding commentary and score tracks), and in the case of foreign content, may include an additional English audio track.
-        * 1.5.3.5 Any files with DTS-HD MA must not contain the DTS core track separately
-        * 1.5.3.6 Any files with TrueHD/Atmos audio MUST have an embedded or standalone AC-3 track for compatibility.
-        * 1.5.3.7 Suitable containers: MP4, MKV.
+        * **1.5.3.1** Source must be an untouched disc (BD50/BD25/DVD9/DVD5).
+        * **1.5.3.2** Must contain original, untouched audio and video track(s).
+        * **1.5.3.3** Any subtitle tracks must be embedded within the .mkv.
+        * **1.5.3.4** Must ONLY contain the original language track (excluding commentary and score tracks), and in the case of foreign content, may include an additional English audio track.
+        * **1.5.3.5** Any files with DTS-HD MA must not contain the DTS core track separately
+        * **1.5.3.6** Any files with TrueHD/Atmos audio MUST have an embedded or standalone AC-3 track for compatibility.
+        * **1.5.3.7** Suitable containers: MP4, MKV.
 
     * **1.5.4 WEB-DLs:**
         * **1.5.4.1** Must contain original, untouched audio and video track(s) from the stream.
@@ -141,9 +141,9 @@
         * **A/V Codecs** - These codecs indicate the way the video and audio information was encoded. Allowed codecs are mentioned in the Format Rules here (LINK). While not strictly required, they are recommended, especially for some formats more than others (encodes, remuxes, web content).
         * **Group** - The name of the group that released the movie or episode(s). If the pack contains multiple groups, in the case where a uniform pack is impossible, you may label this field as MiXED implying the presence of multiple different groups in the pack.
 
-> \* Note: Filenames must never be changed; however, the name you enter into Blutopia’s upload form is separate from the filenames. Your release name on Blutopia MUST conform to our naming schema even if the files themselves don’t. The Blutopia title is necessary to organize content and to make it easier to find the quality, resolution, source, and codecs one is looking for.
+            > \* Note: Filenames must never be changed; however, the name you enter into Blutopia’s upload form is separate from the filenames. Your release name on Blutopia MUST conform to our naming schema even if the files themselves don’t. The Blutopia title is necessary to organize content and to make it easier to find the quality, resolution, source, and codecs one is looking for.
 
-> \** Words like 4k REMASTERED, LIMITED, Director’s Cut, 3D are permitted when necessary. Since the cut of the film describes the film, you may include it before the resolution. Words describing the source such as REMASTERED MUST go before the Source same such as “UHD BluRay.”
+            > \** Words like 4k REMASTERED, LIMITED, Director’s Cut, 3D are permitted when necessary. Since the cut of the film describes the film, you may include it before the resolution. Words describing the source such as REMASTERED MUST go before the Source same such as “UHD BluRay.”
 
 * ### 1.9 Trumping & Dupe Rules:
     * >Here, at Blutopia, we have a very limited trumping system aimed to keep content organized while offering an unmatched variety of content in various qualities. 
