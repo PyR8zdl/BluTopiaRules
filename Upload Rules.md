@@ -79,13 +79,13 @@
         * **1.5.5.1** Source must be HD/UHD. No SD encodes.
         * **1.5.5.2** No re-encodes (encodes of other encodes AKA BRRips, WEB-DL re-encodes, etc).
         * **1.5.5.3** Only proper and quality encodes are allowed. Any encodes where the size and/or bitrate imply a very bad quality are not allowed. Here are some minimum quality settings* to help you:
-            - 720p x264: 2,500 Kbps 
-            - 1080p x264: 5,000 Kbps
-            - 720p x265: 2,000 Kbps
-            - 1080p x265: 3,000 Kbps
+            - _720p x264_: `2,500 Kbps` 
+            - _1080p x264_: `5,000 Kbps`
+            - _720p x265_: `2,000 Kbps`
+            - _1080p x265_: `3,000 Kbps`
         * **1.5.5.4** Suitable containers: MP4, MKV.
 
-> \* The listed bitrates are the recommended minimum. In some cases such as animated movies or series, a lower bitrate can be allowed. However, these are the absolute minimum and just because your encode meets the minimum requirements does not make it a proper quality encode. Quality for low bitrate content is subject to staff discretion on the basis of your encoding settings, media type, and screenshots and may be nuked even if you fulfill the above criteria. 
+            > \* The listed bitrates are the recommended minimum. In some cases such as animated movies or series, a lower bitrate can be allowed. However, these are the absolute minimum and just because your encode meets the minimum requirements does not make it a proper quality encode. Quality for low bitrate content is subject to staff discretion on the basis of your encoding settings, media type, and screenshots and may be nuked even if you fulfill the above criteria. 
 
 * ### 1.6 Content Rules:
 
