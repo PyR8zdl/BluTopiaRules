@@ -1,6 +1,6 @@
 # General Rules:
 
-**```Please Note: Using Blutopia without reading & understanding the rules will result in you account being terminated.```**
+**```Please Note: Using Blutopia without reading & understanding the rules will result in your account being terminated.```**
 
 ## 1) Main Rules:
 * **1.1** Staff are the final arbiters of rules. Staff decisions are final and not subject to appeal. Do not defy direct instructions from staff. Doing so may result in a warning and, in serious cases, a ban from the site.
@@ -23,7 +23,7 @@
     * **2.2.2** Seedtime does not start until you have 100% of a torrent. Partial downloads (link to wiki) are NOT recommended for this reason.
     * **2.2.3** There is a 3% buffer before the minimum seeding requirements kick in. This means that torrents will not be considered a H&R if the amount you have downloaded is less than 3%.
     * **2.2.4** Seeding rules still apply to Freeleech torrents.
-    * **2.2.5** Until you meeting the minimum seeding requirements, you must seed at leastatleast a little every 3 days (72 hours).
+    * **2.2.5** Until you meeting the minimum seeding requirements, you must seed at least a little every 3 days (72 hours).
     * **2.2.6** If you haven’t seeded the minimum required amount (168 hours) and have been disconnected for longer than 24 hours (1 day), you will get an automated pre-warning PM, notifying you of an upcoming HnR if you do not start seeding the next 48 hours.
     * **2.2.7** If you have been disconnected for >72 hours (3 days) and haven’t seeded the minimum required time, you will receive a Hit and Run Warning (link to HnR warning).
 
