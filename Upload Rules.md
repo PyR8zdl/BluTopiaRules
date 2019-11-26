@@ -2,7 +2,7 @@
 
 > Further explanation of these rules and terms are available in the uploading section of our wiki as well as detailed uploading guide to walk you through the process. If you are unsure about a rule, please send a Staff PM here (Link to helpdesk) for clarification before uploading and possibly breaking that rule.
 
-* ###1.1 Overview:
+* ### 1.1 Overview:
    * **1.1.1** You must read and follow all upload rules listed below before uploading.
    * **1.1.2** Only uploads from the categories mentioned here (Allowed Content LINK) are allowed. Anything listed under Prohibited Content (LINK) is specifically banned and not allowed to be uploaded to Blutopia.
    * **1.1.3** You must complete all sections of the upload form.
@@ -13,13 +13,13 @@
    * **1.1.8** Folders are not allowed for single files. All files must be in one folder for season packs, not nested (folder within folder) directory structures. VIDEO_TS, BDMV, and COMPLETE packs (DVD/BluRay image formats) (Link to Formats) are exempt from this rule.
    * **1.1.9** Abuse of loopholes in the upload rules is strictly prohibited. As with all other rules, staff are the final arbiters of these rules and they have the right to remove any file(s) they deem inappropriate for the site.
 
-* ###1.2 Allowed Content:
+* ### 1.2 Allowed Content:
     * **1.2.1** Movies
     * **1.2.2** TV Content
     * **1.2.3** FanRes Projects
     * **1.2.4** ProRes Trailers
 
-* ###1.3 Prohibited Content:
+* ### 1.3 Prohibited Content:
     * **1.3.1** All foreign content without English subtitles
     * **1.3.2** Music/Audiobooks/Podcasts
     * **1.3.3** Applications
@@ -39,7 +39,7 @@
     * **1.3.17** Exclusive content from other trackers that specifically prohibit sharing it
     * **1.3.18** Low Quality Releases - Any group from this banned 
 
-* ###1.4 Allowed Resolutions:
+* ### 1.4 Allowed Resolutions:
     * **1.4.1** All uploads must be in HD+ (High Definition/Ultra High Definition).
     * **1.4.2** SD (Standard Definition) content is only allowed to be uploaded if it has never gotten a true HD release.
     * **1.4.3** SD content is only allowed in non-encoded formats (DVD9/DVD5/DVD Remux/WEB-DL).
@@ -48,7 +48,7 @@
     
 
 
-* ###1.5 Format Rules: 
+* ### 1.5 Format Rules: 
     * **1.5.1 Allowed Codecs:**
         * **1.5.1.1** Video Codecs: H.264 H.265 AVC, MVC VC-1 VP9 Apple ProRes GoPro Cineform MPEG-2 JPEG 2000
         * **1.5.1.2** Audio Codecs: Dolby ATMOS Dolby TrueHD DTS:X DTS Headphone X 1.5.1.3 DTS-HD MA DTS-HD HR DTS LPCM PCM DD DD+ AAC FLAC ALAC OPUS
@@ -87,7 +87,7 @@
 
 > \* The listed bitrates are the recommended minimum. In some cases such as animated movies or series, a lower bitrate can be allowed. However, these are the absolute minimum and just because your encode meets the minimum requirements does not make it a proper quality encode. Quality for low bitrate content is subject to staff discretion on the basis of your encoding settings, media type, and screenshots and may be nuked even if you fulfill the above criteria. 
 
-* ###1.6 Content Rules:
+* ### 1.6 Content Rules:
 
     * **1.6.1 Movies:**
         * **1.6.1.1**  Only one movie per torrent
@@ -105,7 +105,7 @@
 
 
     
-* ###1.7 Naming and Structure Rules:
+* ### 1.7 Naming and Structure Rules:
 
     * **1.7.1 One IMDB/TMDB to a torrent.**
         * **1.7.2** All files included in the upload should have a uniform resolution, source, format, and name. For example. They should all be 720p WEB-DLs by NTb or they should all be 1080p x264 BluRay encodes by AMIABLE, etc. Exceptions can be made if a uniform torrent is impossible. 
@@ -117,7 +117,7 @@
         * **1.7.6** Do NOT remove files or add files to an upload released by a group, unless it’s English subtitles added to foreign content.
         * **1.7.7** User releases by you must follow the naming conventions for the upload name and the filename.
 
-* ###1.8 Naming Conventions:
+* ### 1.8 Naming Conventions:
     * **1.8.1 Movies:** `Movie Year Resolution Source Video Audio Codec-group`
         * **DVD:** `Clinton and Nadine 1988 PAL DVD5-CultFilms™`
         * **WEB-DL:** `The Giant Killer 2017 1080p AMZN WEB-DL DD+ 2.0 H.264-BLUTONiUM`
@@ -145,7 +145,7 @@
 
 > \** Words like 4k REMASTERED, LIMITED, Director’s Cut, 3D are permitted when necessary. Since the cut of the film describes the film, you may include it before the resolution. Words describing the source such as REMASTERED MUST go before the Source same such as “UHD BluRay.”
 
-* ###1.9 Trumping & Dupe Rules:
+* ### 1.9 Trumping & Dupe Rules:
     * >Here, at Blutopia, we have a very limited trumping system aimed to keep content organized while offering an unmatched variety of content in various qualities. 
     * **1.9.1 Dupe:** For each title, each of the following can coexist for each resolution: one* Untouched BluRay (or DVD if not available in HD), one* BluRay remux (or DVD Remux if not available in HD), unlimited x264 and x265 encodes, 1 HDTV, unlimited WEBRips, 1 WEB-DL per .
         * **BluRays:** Additional BluRays for a single title are allowed to exist from another region as long as the video/audio are a different format/bitrate/quality, different subtitles, or an edition with other content not included on the other BluRays.
@@ -162,14 +162,14 @@
 
             > \*Pilots or the first ever episode of every series (S01E01) cannot be trumped and are allowed to coexist with the complete pack. These are allowed to be upload and requested whenever.
 
-* ###1.10 Description Requirements:
+* ### 1.10 Description Requirements:
     * 1.10.1 General:
         * 1.10.1.1 Descriptions must be in English ONLY.
         * 1.10.1.2 Do not link to other trackers in the description.
         * 1.10.1.3 Do not include extraneous information or description that isn’t required by the rules such as synopsis, poster, ratings or any other information already available on the torrent page through the system.
         * 1.10.1.4 Respect other release groups’ requests on how to present their torrent info.
         * 1.10.1.5 You MUST include screenshots when required. To learn how to take proper screenshots, refer to our wiki (LINK).
-    * ####Specific Format Rules
+    * #### Specific Format Rules
     * > The description field when making an upload will include different data depending on the type of files being uploaded. Each different format (LINK) has some general requirements and some unique requirements specific to the format: 
         * Full DVDs: Include the Mediainfo (in the MediaInfo section) of the first .VOB file that includes the movie/show. You may include a physical proof picture and information on included extras. Screenshots are optional but recommended.
         * Full BDs: Include the Quick Summary section from a complete BDInfo scan in the description (NOT in the MediaInfo section). You may include a physical proof picture and information on included extras. Screenshots are optional but recommended.

@@ -1,4 +1,4 @@
-#General Rules:
+# General Rules:
 
 **```Please Note: Using Blutopia without reading & understanding the rules will result in you account being terminated.```**
 
@@ -12,7 +12,7 @@
 * **1.7** Do not attempt to cheat in any way. Reporting incorrect data to the tracker through manipulation of your torrent client is strictly prohibited.
 * **1.8** Do not exploit bugs. Seeking, sharing, exploiting, or discussing site exploits of any site bugs is prohibited. Critical bugs affecting the site’s security must be reported here (LINK). Non-critical bugs may be reported in our forums (LINK).
 
-##2) Seeding Requirements
+## 2) Seeding Requirements
 * **2.1** **Overview**:
     * **2.1.1** This is a sharing community. As you download, you are required to share back your part.
     * **2.1.2** You must maintain an overall ratio(link to ratio) of 0.4 or better to continue downloading.
@@ -35,5 +35,5 @@
     * **2.3.5** If you have 2 active HnR warnings, your download and request privileges are automatically disabled.
     * **2.3.6** If you have 3 active HnR warnings, your account will be automatically banned.
 
-        ######_Help regarding HnR warnings is at the staff’s discretion._
+        ###### _Help regarding HnR warnings is at the staff’s discretion._
 
