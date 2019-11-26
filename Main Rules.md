@@ -10,7 +10,7 @@
 * **1.5** Exposing or threatening to expose private information about users for any reason is prohibited.
 * **1.6** Trading, selling, sharing, or giving away your account is prohibited. If you no longer want your account, simply stop logging into the site or seeding torrents and it will be automatically disabled within 60 days. (LINK to Account Inactivity)
 * **1.7** Do not attempt to cheat in any way. Reporting incorrect data to the tracker through manipulation of your torrent client is strictly prohibited.
-* **1.8** Do not exploit bugs. Seeking, sharing, exploiting, or discussing site exploits of any site bugs is prohibited. Critical bugs affecting the site’s security must be reported here (LINK). Non-critical bugs may be reported in our forums (LINK).
+* **1.8** Do not exploit bugs. Seeking, sharing, exploiting, or discussing site exploits of any site bugs is prohibited. Critical bugs affecting the site’s security must be reported here `(LINK)`. Non-critical bugs may be reported in our forums `(LINK)`.
 
 ## 2) Seeding Requirements
 * **2.1** **Overview**:

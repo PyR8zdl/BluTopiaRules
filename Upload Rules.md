@@ -4,7 +4,7 @@
 
 * ### 1.1 Overview:
    * **1.1.1** You must read and follow all upload rules listed below before uploading.
-   * **1.1.2** Only uploads from the categories mentioned here (Allowed Content LINK) are allowed. Anything listed under Prohibited Content (LINK) is specifically banned and not allowed to be uploaded to Blutopia.
+   * **1.1.2** Only uploads from the categories mentioned here (Allowed Content LINK) are allowed. Anything listed under Prohibited Content `(LINK)` is specifically banned and not allowed to be uploaded to Blutopia.
    * **1.1.3** You must complete all sections of the upload form.
    * **1.1.4** No compressed file formats.
    * **1.1.5** Do not include any additional files (NFOs, samples, screenshots, subtitles, etc.) in your uploads.
@@ -34,7 +34,7 @@
     * **1.3.12**  Archived files
     * **1.3.13** Worthless spam files in torrents
     * **1.3.14** Renamed folders or filenames
-    * **1.3.15** Uploads by any of these release groups (LINK)
+    * **1.3.15** Uploads by any of these release groups `(LINK)`
     * **1.3.16** Upscaled or upconverted content
     * **1.3.17** Exclusive content from other trackers that specifically prohibit sharing it
     * **1.3.18** Low Quality Releases - Any group from this banned 
@@ -133,12 +133,12 @@
         * **BluRay Remux:** `Black Sails S02 1080p BluRay REMUX AVC DTS-HD MA 5.1-EPSiLON`
         * **HDTV:** `Samantha Who S01 720p HDTV x264-BTN`
 
-    * 1.8.3 Naming Explanation
+    * **1.8.3 Naming Explanation**
         * **Name** - Movie or show name. Include all proper punctuation (IE: ' , :)
         * **Year/Season** - Year the movie was released as specified by IMDB or the Season number in the format of S01 for Season 1, S02 for Season 2, etc. Individual episodes are named the same as their season directory with the episode specified as such: S01E01 for the first episode in season 1, S02E02, for the second episode in the second season, and S10E34 for the 34th episode in the 10th season.
         * **Resolution** - The resolution of the files you have uploaded. For SD content, it isn’t necessary to specify a resolution for the DVD or DVD-Remux. It is mandatory to specify the type of DVD, depending on region, NTSC or PAL.
         * **Source** - Which medium was the original release. For example, an encode made from a BluRay disc would mention “BluRay,” a download from the Amazon web service might say “AMZN WEB-DL” and a 1080p encode sourced from a 4k UHD BluRay disc might say “UHD BluRay.” For untouched raw BDs, it is recommended to include the region to the extent possible (US, AUR, EUR, NOR, etc.)
-        * **A/V Codecs** - These codecs indicate the way the video and audio information was encoded. Allowed codecs are mentioned in the Format Rules here (LINK). While not strictly required, they are recommended, especially for some formats more than others (encodes, remuxes, web content).
+        * **A/V Codecs** - These codecs indicate the way the video and audio information was encoded. Allowed codecs are mentioned in the Format Rules here `(LINK)`. While not strictly required, they are recommended, especially for some formats more than others (encodes, remuxes, web content).
         * **Group** - The name of the group that released the movie or episode(s). If the pack contains multiple groups, in the case where a uniform pack is impossible, you may label this field as MiXED implying the presence of multiple different groups in the pack.
 
             > \* Note: Filenames must never be changed; however, the name you enter into Blutopia’s upload form is separate from the filenames. Your release name on Blutopia MUST conform to our naming schema even if the files themselves don’t. The Blutopia title is necessary to organize content and to make it easier to find the quality, resolution, source, and codecs one is looking for.
@@ -152,27 +152,27 @@
         * **Remux:** Additional remuxes are allowed to exist if the BluRay source is different as described above.
         * **WEB-DL:** Additional WEB-DLs are allowed to exist if the source provider is different (AMZN, RED, HULU, NETFLIX) and the video/audio quality/file size is different.
     * **1.9.2 Trumping:** Trumping is only allowed in the following cases:
-        * 1.9.2.1 Torrent being trumped is defective in some way (audio/video glitches, out of sync audio, corrupted files, missing episodes, etc)
-        * 1.9.2.2 Torrent being trumped is a remux that failed to include a commentary track present in the source disk.
-        * 1.9.2.3 SD torrent when an HD+ version is released.
-        * 1.9.2.4 TV Show season packs trump individual episodes of the same season, quality, and source.
-        * 1.9.2.5 TV Show season pack WEB-DLs trump WEBRip season pack/ individual WEBRip episodes from the same source with the same resolution.
-        * 1.9.2.6 A dead torrent (LINK to wiki) with last seedtime activity 3+ months ago.
-        * 1.9.2.7 A dead torrent with an unanswered reseed request (1+ week) and last seedtime activity 1+ month ago.
+        * **1.9.2.1** Torrent being trumped is defective in some way (audio/video glitches, out of sync audio, corrupted files, missing episodes, etc)
+        * **1.9.2.2** Torrent being trumped is a remux that failed to include a commentary track present in the source disk.
+        * **1.9.2.3** SD torrent when an HD+ version is released.
+        * **1.9.2.4** TV Show season packs trump individual episodes of the same season, quality, and source.
+        * **1.9.2.5** TV Show season pack WEB-DLs trump WEBRip season pack/ individual WEBRip episodes from the same source with the same resolution.
+        * **1.9.2.6** A dead torrent (LINK to wiki) with last seedtime activity 3+ months ago.
+        * **1.9.2.7** A dead torrent with an unanswered reseed request (1+ week) and last seedtime activity 1+ month ago.
 
             > \*Pilots or the first ever episode of every series (S01E01) cannot be trumped and are allowed to coexist with the complete pack. These are allowed to be upload and requested whenever.
 
 * ### 1.10 Description Requirements:
-    * 1.10.1 General:
-        * 1.10.1.1 Descriptions must be in English ONLY.
-        * 1.10.1.2 Do not link to other trackers in the description.
-        * 1.10.1.3 Do not include extraneous information or description that isn’t required by the rules such as synopsis, poster, ratings or any other information already available on the torrent page through the system.
-        * 1.10.1.4 Respect other release groups’ requests on how to present their torrent info.
-        * 1.10.1.5 You MUST include screenshots when required. To learn how to take proper screenshots, refer to our wiki (LINK).
+    * **1.10.1 General:**
+        * **1.10.1.1** Descriptions must be in English ONLY.
+        * **1.10.1.2** Do not link to other trackers in the description.
+        * **1.10.1.3** Do not include extraneous information or description that isn’t required by the rules such as synopsis, poster, ratings or any other information already available on the torrent page through the system.
+        * **1.10.1.4** Respect other release groups’ requests on how to present their torrent info.
+        * **1.10.1.5** You MUST include screenshots when required. To learn how to take proper screenshots, refer to our wiki `(LINK)`.
     * #### Specific Format Rules
-    * > The description field when making an upload will include different data depending on the type of files being uploaded. Each different format (LINK) has some general requirements and some unique requirements specific to the format: 
-        * Full DVDs: Include the Mediainfo (in the MediaInfo section) of the first .VOB file that includes the movie/show. You may include a physical proof picture and information on included extras. Screenshots are optional but recommended.
-        * Full BDs: Include the Quick Summary section from a complete BDInfo scan in the description (NOT in the MediaInfo section). You may include a physical proof picture and information on included extras. Screenshots are optional but recommended.
-        * Remux: Include the complete MediaInfo (in the MediaInfo section). If there are multiple files, like in the case of episodes, including the mediainfo for the first episode. Source information and an eac3to log (LINK) showing proper demuxing are recommended but not required. Screenshots are optional but highly recommended.
-        * WEB Content: Include the complete MediaInfo (in the MediaInfo section). If there are multiple files, like in the case of episodes, including the mediainfo for the first episode. Proper screenshots are REQUIRED (LINK).
-        * Encodes: Include the complete MediaInfo (in the MediaInfo section). If there are multiple files, like in the case of episodes, including the mediainfo for the first episode. Source information and screenshot comparisons to source/other encodes is highly recommended but not required. Proper screenshots are REQUIRED (LINK).
+    * > The description field when making an upload will include different data depending on the type of files being uploaded. Each different format `(LINK)` has some general requirements and some unique requirements specific to the format: 
+        * **Full DVDs:** Include the Mediainfo (in the MediaInfo section) of the first .VOB file that includes the movie/show. You may include a physical proof picture and information on included extras. Screenshots are optional but recommended.
+        * **Full BDs:** Include the Quick Summary section from a complete BDInfo scan in the description (NOT in the MediaInfo section). You may include a physical proof picture and information on included extras. Screenshots are optional but recommended.
+        * **Remux:** Include the complete MediaInfo (in the MediaInfo section). If there are multiple files, like in the case of episodes, including the mediainfo for the first episode. Source information and an eac3to log `(LINK)` showing proper demuxing are recommended but not required. Screenshots are optional but highly recommended.
+        * **WEB Content:** Include the complete MediaInfo (in the MediaInfo section). If there are multiple files, like in the case of episodes, including the mediainfo for the first episode. Proper screenshots are REQUIRED `(LINK)`.
+        * **Encodes:** Include the complete MediaInfo (in the MediaInfo section). If there are multiple files, like in the case of episodes, including the mediainfo for the first episode. Source information and screenshot comparisons to source/other encodes is highly recommended but not required. Proper screenshots are REQUIRED `(LINK)`.
